@@ -1,7 +1,7 @@
 telegram代理TG免费代理
 小飞机免费代理，只能登录telegram ，不可用于翻墙上网
 
-免费科学上网关注<p><a herf="https://t.me/amacnet"</a> 飞机号</p>
+免费科学上网关注<p><a href="https://t.me/amacnet"><strong>电报群</strong></a></p>
 更新时间： 2023-02-09
 
 
