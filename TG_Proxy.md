@@ -1,6 +1,8 @@
 telegram代理TG免费代理
 小飞机免费代理，只能登录telegram ，不可用于翻墙上网
 
+<p><a href="https://bt.idid88.com"><strong>私有APPID账号</strong></a></p>
+
 免费科学上网关注<p><a href="https://t.me/amacnet"><strong>电报群</strong></a></p>
 更新时间： 2023-02-09
 
