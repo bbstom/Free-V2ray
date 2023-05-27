@@ -10,7 +10,7 @@ cisco anyconnect 免费科学上网(secure client)，
 
 关注频道获取注册地址： <p><a href="https://t.me/amacnet"><strong>电报群</strong></a></p>
 
-<p><a href="https://github.com/bbstom/Free-V2ray/blob/main/TG_Proxy.md"><strong>TG免翻免费代理节点</strong></a></p>
+<p><a href="https://t.me/amacnet"><strong>TG免翻免费代理节点</strong></a></p>
 <p><a href="https://tt.vg/aQYqu"><strong>免费注册地址</strong></a></p>
 
 
