@@ -9,7 +9,7 @@ cisco anyconnect 免费科学上网(secure client)，
 特殊时期稳定不被墙的无限流量思科VPN 每日免费时长,可2台设备同时登录，多国服务器，智能分流代理，安卓为全局代理
 
 关注频道获取注册地址： <p><a href="https://t.me/amacnet"><strong>电报群</strong></a></p>
-
+<p><a href="https://t.me/searchto"><strong>TG万能搜索</strong></a></p>
 <p><a href="https://t.me/amacnet"><strong>TG免翻免费代理节点</strong></a></p>
 <p><a href="https://tt.vg/aQYqu"><strong>免费注册地址</strong></a></p>
 
