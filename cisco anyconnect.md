@@ -2,12 +2,16 @@
 cisco anyconnect 免费科学上网(secure client)，
 🚀 免费订阅地址，🚀 免费节点，🚀 共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子
 
-重新更新一个可以白嫖的站点，自行注册选择免费套餐，使用cisco anyconnect客户端，非clash v2ray trojon
+
+
+重新更新一个可以白嫖的站点，自行注册选择免费套餐，使用cisco anyconnect(secure client)客户端，非clash v2ray trojon
+
+特殊时期稳定不被墙的无限流量思科VPN 每日免费时长,可2台设备同时登录，多国服务器，智能分流代理，安卓为全局代理
 
 关注频道获取注册地址： <p><a href="https://t.me/amacnet"><strong>电报群</strong></a></p>
 
 <p><a href="https://github.com/bbstom/Free-V2ray/blob/main/TG_Proxy.md"><strong>TG免翻免费代理节点</strong></a></p>
-<p><a href="https://bc.amac.cc"><strong>免费注册地址</strong></a></p>
+<p><a href="https://tt.vg/aQYqu"><strong>免费注册地址</strong></a></p>
 
 
 ################################################
