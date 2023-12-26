@@ -1,6 +1,6 @@
 @charset "utf-8";
-@import "./darkstyles.css"(prefers-color-scheme: dark);
-@import "./lightstyles.css"(prefers-color-scheme: light);
+@import "https://raw.githubusercontent.com/bbstom/Free-V2ray/main/css/darkstyles.css"(prefers-color-scheme: dark);
+@import "https://raw.githubusercontent.com/bbstom/Free-V2ray/main/css/lightstyles.css"(prefers-color-scheme: light);
 
 
 body {
