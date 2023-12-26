@@ -1,0 +1,99 @@
+@charset "utf-8";
+@import "./darkstyles.css"(prefers-color-scheme: dark);
+@import "./lightstyles.css"(prefers-color-scheme: light);
+
+
+body {
+    font-size: 15px;
+}
+
+.title {
+    color: unset;
+}
+
+.navbar-burger {
+    color: white;
+}
+
+.navbar-burger:hover {
+    color: white;
+}
+
+
+.hero.is-primary .navbar-item,
+.hero.is-primary .navbar-link {
+    color: unset;
+}
+
+.card-header {
+    box-shadow: unset;
+}
+
+.card-footer {
+    border-top: unset;
+}
+
+.table th,
+.table td {
+    vertical-align: middle;
+    min-width: 120px;
+}
+
+.section {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.notification {
+    display: block;
+    opacity: 0;
+    transition: all .4s;
+    text-align: center;
+    padding: 1.25rem;
+    width: 150px;
+    height: 150px;
+    position: fixed;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    box-shadow: 0 0.5em 1em -0.125em rgba(10,10,10,.1), 0 0px 0 1px rgba(10,10,10,.02);
+    transition: all .4s;
+}
+
+.notification.show {
+    opacity: 1;
+    transform: none;
+    pointer-events: auto;
+}
+
+.notification i{
+    font-size:  3em;
+    margin: auto;
+}
+
+
+
+@media screen and (max-width: 1023px) {
+    .navbar-menu {
+        display: block;
+        opacity: 0;
+
+        position: absolute;
+        /* or float: left; width: 100%;*/
+        left: 0;
+        right: 0;
+        transition: all .4s;
+        pointer-events: none;
+    }
+    .navbar-brand{
+        position: relative;
+    }
+    .navbar-menu.is-active {
+        z-index:1;
+        opacity: 1;
+        transform: none;
+        pointer-events: auto;
+    }
+}
