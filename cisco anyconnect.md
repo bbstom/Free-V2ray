@@ -14,7 +14,7 @@ cisco anyconnect 免费科学上网(secure client)，
 <p><a href="https://t.me/jisou?start=a_1434422102"><strong>免费社工库搜索</strong></a></p>
 <p><a href="https://t.me/jisou?start=a_1434422102"><strong>trx能量兑换搜索</strong></a></p>
 <p><a href="https://t.me/amacnet"><strong>TG免翻免费代理节点</strong></a></p>
-<p><a href="https://tt.vg/aQYqu"><strong>免费注册地址</strong></a></p>
+<p><a href="https://imaodou.xyz?inviteCode=Googvtrx"><strong>收费vpn推荐(建议谷歌或火狐浏览器)</strong></a></p>
 
 
 ################################################
